@@ -1,7 +1,15 @@
-### Hi there 👋
+## Rhomennik Rios
+
+![Rhomennik github stats](https://github-readme-stats.vercel.app/api?username=Rhomennik&show_icons=true)
+
+
+## Follow me on Twitter
+
+Follow [@rhomerios](https://twitter.com/rhomerios)
 
 <!--
-**Rhomennik/rhomennik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rhomennik/rhomennik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -11,6 +19,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
